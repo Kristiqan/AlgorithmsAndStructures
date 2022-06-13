@@ -1,0 +1,3 @@
+﻿  main.cpp
+A:\Programming\Materials\StudentQueue-master\StudentQueue-master\StudentQueue\main.cpp(222): warning C4715: 'CafeteriaQueue::SearchForFamiliar': not all control paths return a value
+  StudentQueue.vcxproj -> A:\Programming\Materials\StudentQueue-master\StudentQueue-master\x64\Debug\StudentQueue.exe
